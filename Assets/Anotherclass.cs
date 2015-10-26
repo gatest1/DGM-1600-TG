@@ -3,11 +3,11 @@ using System.Collections;
 
 public class Anotherclass : MonoBehaviour
 {
-    public int apples;
-    public int bananas;
+    public int grapes;
+    public int strawberries;
 
-    private int stapler;
-    private int sellotape;
+    private int glue;
+    private int stickers;
 
     public void FruitMachine(int a, int b)
     {
@@ -15,7 +15,7 @@ public class Anotherclass : MonoBehaviour
         answer = a + b;
         Debug.Log("Fruit total: " + answer);
     }
-    private void OfficeSort(int a, int b)
+    private void OfficeStuff(int a, int b)
     {
         int answer;
         answer = a + b;
