@@ -4,24 +4,37 @@ using System.Collections;
 public class Spells : MonoBehaviour
 {
 
-    // Use this for initialization
-    public class Spells9
+    // Main Class
+    public class House
     {
-        public int Spell1;
-
-        public Spells9()
+        public string wallColor;
+        //Sub Class
+        public House()
         {
-            Spell1 = 5;
+            //Defalt Constructor
+            /*Instance*/
+            wallColor = "blue";
         }
-        public Spells9(int expeliamus)
+        //Parameter----(8)
+        public House(string _color)
         {
-            Spell1 = expeliamus;
+            /*Instance*/
+            wallColor = _color;
         }
     }
-    public Spells9 mySpells9 = new Spells9(8);
+    public House house1 = new House();
+
 
     void Start()
     {
-        Debug.Log(mySpells9.Spell1);
+        House house2 = house1;
+        house2.wallColor = "red";
+
+        int num1 = 5;
+        int num2 = num1;
+        num2 = 30;
+
+        //Debug.Log(mySpells9.Spell1);
+        //Debug.Log(mySpells2.SpellFire);
     }
 }
