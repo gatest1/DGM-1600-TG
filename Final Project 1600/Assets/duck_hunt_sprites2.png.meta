@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: cb1f1442cf0a19e43a133f0ce98c5f3f
+timeCreated: 1447281710
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: duck_hunt_sprites2_0
+    21300002: duck_hunt_sprites2_1
+    21300004: duck_hunt_sprites2_2
+    21300006: duck_hunt_sprites2_3
+    21300008: duck_hunt_sprites2_4
+    21300010: duck_hunt_sprites2_5
+    21300012: duck_hunt_sprites2_6
+    21300014: duck_hunt_sprites2_7
+    21300016: duck_hunt_sprites2_9
+    21300018: duck_hunt_sprites2_10
+    21300020: duck_hunt_sprites2_11
+    21300022: duck_hunt_sprites2_12
+    21300024: duck_hunt_sprites2_13
+    21300026: duck_hunt_sprites2_14
+    21300028: duck_hunt_sprites2_15
+    21300030: duck_hunt_sprites2_16
+    21300032: duck_hunt_sprites2_17
+    21300034: duck_hunt_sprites2_18
+    21300036: duck_hunt_sprites2_19
+    21300038: duck_hunt_sprites2_20
+    21300040: duck_hunt_sprites2_21
+    21300042: duck_hunt_sprites2_22
+    21300044: duck_hunt_sprites2_23
+    21300046: duck_hunt_sprites2_8
+    21300048: duck_hunt_sprites2_24
+    21300050: duck_hunt_sprites2_25
+    21300052: duck_hunt_sprites2_26
+    21300054: duck_hunt_sprites2_27
+    21300056: duck_hunt_sprites2_28
+    21300058: duck_hunt_sprites2_29
+    21300060: duck_hunt_sprites2_30
+    21300062: duck_hunt_sprites2_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: duck_hunt_sprites2_0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 483
+        width: 100
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_1
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 488
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 458
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 446
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 446
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 411
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 419
+        width: 117
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 419
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_9
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 409
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 169
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 169
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 168
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 168
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 168
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 168
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 165
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 165
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 168
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_20
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 168
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_21
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 168
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_22
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 156
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 24
+        width: 483
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 347
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 347
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: .481804848, y: .467653066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 345
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 313
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 313
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 309
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 272
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 273
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duck_hunt_sprites2_31
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 273
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
